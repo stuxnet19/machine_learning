@@ -1,0 +1,3 @@
+R => right => 0
+B => Balance => 1
+L => Left => 2
